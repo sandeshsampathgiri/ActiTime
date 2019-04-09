@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11532" started-at="2019-04-09T15:52:41Z" finished-at="2019-04-09T15:52:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11532" started-at="2019-04-09T15:52:41Z" finished-at="2019-04-09T15:52:53Z">
+      <class name="Tests.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.LoginPageTest@204f30ec]" name="setUp" is-config="true" duration-ms="3969" started-at="2019-04-09T15:52:41Z" finished-at="2019-04-09T15:52:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="accessTestSite()[pri:0, instance:Tests.LoginPageTest@204f30ec]" name="accessTestSite" duration-ms="7297" started-at="2019-04-09T15:52:45Z" finished-at="2019-04-09T15:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accessTestSite -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.LoginPageTest@204f30ec]" name="tearDown" is-config="true" duration-ms="200" started-at="2019-04-09T15:52:52Z" finished-at="2019-04-09T15:52:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
