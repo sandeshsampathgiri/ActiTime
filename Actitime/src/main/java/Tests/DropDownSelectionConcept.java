@@ -57,6 +57,7 @@ public class DropDownSelectionConcept {
 	public void tearDown() {
 		driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
 		driver.close();
+		
 	}
 
 }
